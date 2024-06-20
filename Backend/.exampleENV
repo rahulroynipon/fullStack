@@ -1,3 +1,7 @@
 PORT=3000
 MONGODB_URI=mongodb+srv://rahulroynipon:rahul123@rahul.qsbw8d2.mongodb.net
 CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJc3N1ZXIgKGlzcykiOiJJc3N1Z
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=123fads/.afsdfasdfas/fasd.fasdfas/fdasfasdfe/rertewraf34234fsa
+REFRESH_TOKEN_EXPIRY=10d
